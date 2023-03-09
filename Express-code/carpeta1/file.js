@@ -1,0 +1,1 @@
+console.log('soy el archivo JavaScript de la carpeta  "carpeta1" ');
